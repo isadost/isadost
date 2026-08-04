@@ -1,16 +1,30 @@
-## Hi there 👋
+# İsa Dost
 
-<!--
-**isadost/isadost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sistem ve ağ altyapıları, yazılım geliştirme ve test otomasyonu alanlarındaki projelerin yer aldığı teknik portföy.
 
-Here are some ideas to get you started:
+## 1. Test Mühendisliği
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selenium & Cucumber
+
+- [Selenium Cucumber Login Tests](https://github.com/isadost/selenium-cucumber-login-tests)  
+  Selenium, Cucumber, JUnit ve Page Object Model kullanılarak geliştirilen web arayüzü test otomasyonu projesi.
+
+### REST Assured & JUnit 5
+
+- [Restful Booker API Tests](https://github.com/isadost/restful-booker-api-tests)  
+  REST Assured ve JUnit 5 ile GET, POST, PUT ve DELETE senaryolarını kapsayan API test otomasyonu projesi.
+
+## 2. MVC
+
+### 2.1 Laravel
+
+Laravel MVC projeleri bu bölüm altında yer alacaktır.
+
+### 2.2 C# MVC
+
+ASP.NET MVC ve C# projeleri bu bölüm altında yer alacaktır.
+
+## 3. Yapay Zekâ ve Veri Bilimi
+
+- [ERP Stok Kartı Tekilleştirme](https://github.com/isadost/erp-stok-karti-tekillestirme)  
+  ERP sistemlerindeki yinelenen stok kartlarını tespit etmeye ve tekilleştirmeye yönelik çalışma.
