@@ -24,9 +24,9 @@ Yazılım geliştirme ve test otomasyonu üzerine çalışıyorum. Aynı problem
 
 ## Teknolojiler
 
-**Test:** Java, JUnit 5, Selenium, Cucumber, REST Assured, PHPUnit, xUnit
-**Geliştirme:** PHP, Laravel, C#, ASP.NET Core, Entity Framework Core
-**Araçlar:** Git, GitHub Actions, Maven, SQLite
+- **Test:** Java, JUnit 5, Selenium, Cucumber, REST Assured, PHPUnit, xUnit
+- **Geliştirme:** PHP, Laravel, C#, ASP.NET Core, Entity Framework Core
+- **Araçlar:** Git, GitHub Actions, Maven, SQLite
 
 ## İletişim
 
