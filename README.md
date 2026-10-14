@@ -1,30 +1,33 @@
 # İsa Dost
 
-Sistem ve ağ altyapıları, yazılım geliştirme ve test otomasyonu alanlarındaki projelerin yer aldığı teknik portföy.
+Yazılım geliştirme ve test otomasyonu üzerine çalışıyorum. Aynı problemi farklı teknolojilerle çözmeyi ve her projeyi otomatik testlerle doğrulamayı seviyorum.
 
-## 1. Test Mühendisliği
+## Öne Çıkan Projeler
 
-### Selenium & Cucumber
+### Stok Takip: aynı problem, iki teknoloji
 
-- [Selenium Cucumber Login Tests](https://github.com/isadost/selenium-cucumber-login-tests)  
-  Selenium, Cucumber, JUnit ve Page Object Model kullanılarak geliştirilen web arayüzü test otomasyonu projesi.
+| Proje | Teknoloji | Öne çıkanlar |
+|---|---|---|
+| [Laravel Stok Takip](https://github.com/isadost/laravel-stok-takip) | PHP, Laravel 13, SQLite, Tailwind | Girişli web uygulaması, ürün ve kategori yönetimi, arama ve filtre, düşük stok vurgusu, 42 otomatik test |
+| [Stok Takip API](https://github.com/isadost/stok-takip-api) | C#, ASP.NET Core (.NET 10), EF Core, SQLite | REST API, sayfalama, doğrulama, 15 entegrasyon testi |
 
-### REST Assured & JUnit 5
+İkisi de GitHub Actions ile her push'ta otomatik test edilir.
 
-- [Restful Booker API Tests](https://github.com/isadost/restful-booker-api-tests)  
-  REST Assured ve JUnit 5 ile GET, POST, PUT ve DELETE senaryolarını kapsayan API test otomasyonu projesi.
+## Test Mühendisliği
 
-## 2. MVC
+- [Selenium Cucumber Login Tests](https://github.com/isadost/selenium-cucumber-login-tests): Selenium, Cucumber, JUnit ve Page Object Model ile web arayüzü test otomasyonu
+- [Restful Booker API Tests](https://github.com/isadost/restful-booker-api-tests): REST Assured ve JUnit 5 ile GET, POST, PUT ve DELETE senaryolarını kapsayan API test otomasyonu
 
-### 2.1 Laravel
+## Yapay Zekâ ve Veri Bilimi
 
-Laravel MVC projeleri bu bölüm altında yer alacaktır.
+- [ERP Stok Kartı Tekilleştirme](https://github.com/isadost/erp-stok-karti-tekillestirme): ERP sistemlerindeki yinelenen stok kartlarını semantik benzerlik ve makine öğrenmesiyle tespit etmeye yönelik çalışma
 
-### 2.2 C# MVC
+## Teknolojiler
 
-ASP.NET MVC ve C# projeleri bu bölüm altında yer alacaktır.
+**Test:** Java, JUnit 5, Selenium, Cucumber, REST Assured, PHPUnit, xUnit
+**Geliştirme:** PHP, Laravel, C#, ASP.NET Core, Entity Framework Core
+**Araçlar:** Git, GitHub Actions, Maven, SQLite
 
-## 3. Yapay Zekâ ve Veri Bilimi
+## İletişim
 
-- [ERP Stok Kartı Tekilleştirme](https://github.com/isadost/erp-stok-karti-tekillestirme)  
-  ERP sistemlerindeki yinelenen stok kartlarını tespit etmeye ve tekilleştirmeye yönelik çalışma.
+[LinkedIn](https://linkedin.com/in/isa-dost-b5363962) · [isadost.com](https://www.isadost.com/)
